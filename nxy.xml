@@ -1,0 +1,30 @@
+<?xmlversion="1.0"encoding="UTF-8"?>
+<Rxml:lang="zh">
+	<S>
+		<Ik="transactionId">
+			<D>111111</D>
+		</I>
+		<Vk="payerAccountNumber">
+			<T>付款账号：</T>
+			<D>1234567890123456</D>
+		</V>
+		<Vk="amount" c="n">
+			<T>付款金额：</T>
+			<D>1,234.23</D>
+			<T>元</T>
+		</V>
+		<Vk="paymentDate"c="t">
+			<T>付款日期：</T>
+			<D>2010-09-10</D>
+		</V>
+		<Vk="payeeAccountNumber">
+			<T>收款账号：</T>
+			<D>100000067782</D>
+		</V>
+		<Ik="bankPriority">
+			<D>1</D>
+		</I>
+		<Ik="serviceId">
+			<D>S200</D>
+		</I>
+	</S></R>
